@@ -23,7 +23,7 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Asaniya127&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Asaniya127)](https://github.com/Asaniya127/github-profile-trophy)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
